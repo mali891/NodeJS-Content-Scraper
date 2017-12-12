@@ -1,6 +1,10 @@
-# nodejs-content-scraper
-Scrape content from given url using nodejs
+NodeJS Content Scraper Project
+==============================
 
-#To install dependencies, run 'npm install' on root
+## Project from my Fullstack JavaScript Techdegree
 
-#To run program, using your shell application, cd into the 'js' folder, and run 'node scraper'
+### Find out more at https://teamtreehouse.com/techdegree/full-stack-javascript
+
+### To install dependencies, run 'npm install' on root
+
+### To run program, using your shell application, cd into the 'js' folder, and run 'node scraper'
